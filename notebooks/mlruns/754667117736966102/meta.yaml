@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Users/Karan/Desktop/Telecom-Customer-Churn-End-To-End/notebooks/mlruns/754667117736966102
+creation_time: 1771868456963
+experiment_id: '754667117736966102'
+last_update_time: 1771868456963
+lifecycle_stage: active
+name: Telco Churn - XGBoost
+workspace: default

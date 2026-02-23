@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Karan/Desktop/Telecom-Customer-Churn-End-To-End/notebooks/mlruns/754667117736966102/dadcb3042c344cbba12adca6d9ff90a3/artifacts
+end_time: 1771868461960
+entry_point_name: ''
+experiment_id: '754667117736966102'
+lifecycle_stage: active
+run_id: dadcb3042c344cbba12adca6d9ff90a3
+run_name: useful-croc-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771868457119
+status: 3
+tags: []
+user_id: Karan

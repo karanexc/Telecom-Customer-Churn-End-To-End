@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Karan/Desktop/Telecom-Customer-Churn-End-To-End/notebooks/mlruns/754667117736966102/models/m-787af29d54bd4da48868703eca197597/artifacts
+creation_timestamp: 1771868457521
+experiment_id: '754667117736966102'
+last_updated_timestamp: 1771868461942
+model_id: m-787af29d54bd4da48868703eca197597
+model_type: null
+name: model
+source_run_id: dadcb3042c344cbba12adca6d9ff90a3
+status: 2
+status_message: null
